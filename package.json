@@ -1,0 +1,17 @@
+{
+  "name": "waiter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:devcarlosl/waiter.git",
+  "author": "Carlos Lopes <dev.carloslopes@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.43.0",
+    "@typescript-eslint/parser": "^5.43.0",
+    "eslint": "^8.28.0",
+    "typescript": "^4.9.3"
+  }
+}
